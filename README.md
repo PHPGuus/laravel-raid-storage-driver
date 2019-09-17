@@ -1,5 +1,11 @@
 # Laravel RAID Storage
 
+[![Latest Version on Github](https://img.shields.io/github/v/tag/phpguus/laravel-raid-storage-driver?style=plastic)](https://github.com/phpguus/laravel-raid-storage-driver)
+[![Latest version on Packagist](https://img.shields.io/packagist/v/phpguus/laravel-raid-storage-driver?style=plastic)](https://packagist.org/packages/phpguus/laravel-raid-storage-driver)
+[![StyleCI](https://styleci.io/repos/209052284/shield?branch=master&style=plastic)](https://styleci.io/repos/209052284)
+[![Quality Score](https://img.shields.io/scrutinizer/quality/g/phpguus/laravel-raid-storage-driver?style=plastic)](https://img.shields.io/scrutinizer/quality/g/phpguus/laravel-raid-storage-driver)
+[![Total Downloads](https://img.shields.io/packagist/dt/phpguus/laravel-raid-storage-driver?style=plastic)](https://packagist.org/packages/phpguus/laravel-raid-storage-driver)
+
 laravel-raid-storage-driver provides encapsulation of the
 [flysystem-raid](https://github.com/phpguus/flysystem-raid) package for Laravel
 applications.
